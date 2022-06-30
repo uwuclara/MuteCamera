@@ -1,0 +1,2 @@
+# MuteCamera
+VRCMod for MelonLoadee
